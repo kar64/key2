@@ -1,4 +1,9 @@
 .container{
-    max-width:1240px;
+    max-width:1270px;
+    padding:0 15px;
     margin:0 auto;
+}
+.container__right{
+    
+    padding-left:calc((100% - 1270px) / 2 + 15px);
 }
